@@ -1,0 +1,21 @@
+body{
+    background-size:cover;
+}
+.link{
+    color:black;
+    background: white;
+    width:30%;
+    height:35px;
+    margin-top:15px;
+    border-radius:25px;
+    border-color:blueviolet;
+    border-style:dashed;
+}
+.heading:hover{
+    color:black;
+    font-size: 20px;
+    font-style:bold;
+}
+.link:hover{
+    border-color:yellowgreen;
+}
