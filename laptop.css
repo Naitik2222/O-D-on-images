@@ -1,6 +1,6 @@
 canvas{
    
-    margin-top: 20px;
+    margin-top: 50px;
    border-radius:20px;
     
     box-shadow:10px 10px 10px grey;
@@ -11,3 +11,9 @@ canvas{
     color:red;
     font-size: 20px;
 }
+#laptop_msg{
+    margin-top: 5px;
+}
+#laptop_status{
+       margin-top : 5px;
+   }
